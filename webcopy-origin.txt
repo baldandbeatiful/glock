@@ -1,0 +1,148 @@
+Uri: https://app.framerstatic.com/Inter-Regular.cyrillic-ext-CFTLRB35.woff2
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\Inter-Regular.cyrillic-ext-CFTLRB35.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.cyrillic-KKLZBALH.woff2
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\Inter-Regular.cyrillic-KKLZBALH.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.greek-ext-ULEBLIFV.woff2
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\Inter-Regular.greek-ext-ULEBLIFV.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.greek-IRHSNFQB.woff2
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\Inter-Regular.greek-IRHSNFQB.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.latin-ext-VZDUGU3Q.woff2
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\Inter-Regular.latin-ext-VZDUGU3Q.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.latin-JLQMKCHE.woff2
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\Inter-Regular.latin-JLQMKCHE.woff2
+Content Type: font/woff2
+
+Uri: https://app.framerstatic.com/Inter-Regular.vietnamese-QK7VSWXK.woff2
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\Inter-Regular.vietnamese-QK7VSWXK.woff2
+Content Type: font/woff2
+
+Uri: https://awp-gg.xyz/
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\index.htm
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/bebasneue/v14/JTUSjIg69CK48gW7PXoo9Wdhyzbi.woff2
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\s\bebasneue\v14\JTUSjIg69CK48gW7PXoo9Wdhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/bebasneue/v14/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\s\bebasneue\v14\JTUSjIg69CK48gW7PXoo9Wlhyw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/aS73N8kYD5YzsAHwd2AVEBym3x8.mp4
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\assets\aS73N8kYD5YzsAHwd2AVEBym3x8.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/ZuoAgRxBn3J5DTN450jMvqanpj8.woff2
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\assets\ZuoAgRxBn3J5DTN450jMvqanpj8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/2OXYNnzgqq0cVpVlGmZJNPUfjoU.jpg
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\2OXYNnzgqq0cVpVlGmZJNPUfjoU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/2OXYNnzgqq0cVpVlGmZJNPUfjoU.jpg?scale-down-to=1024
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\2OXYNnzgqq0cVpVlGmZJNPUfjoU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/2OXYNnzgqq0cVpVlGmZJNPUfjoU.jpg?scale-down-to=512
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\2OXYNnzgqq0cVpVlGmZJNPUfjoU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/b0V2VW0lp41xlVNN2vVpfP4wYwM.png
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\b0V2VW0lp41xlVNN2vVpfP4wYwM-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/b0V2VW0lp41xlVNN2vVpfP4wYwM.png?scale-down-to=512
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\b0V2VW0lp41xlVNN2vVpfP4wYwM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/FGtlw2YWqy4z2Cr74bJW7zRNUA.png
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\FGtlw2YWqy4z2Cr74bJW7zRNUA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ItUolfolmlziSr42IV05zu6Fc.png
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\ItUolfolmlziSr42IV05zu6Fc-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ItUolfolmlziSr42IV05zu6Fc.png?scale-down-to=1024
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\ItUolfolmlziSr42IV05zu6Fc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ItUolfolmlziSr42IV05zu6Fc.png?scale-down-to=512
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\ItUolfolmlziSr42IV05zu6Fc-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kjiN2hgEgDCsoHDesWIDuXINqE4.png
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\kjiN2hgEgDCsoHDesWIDuXINqE4-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kjiN2hgEgDCsoHDesWIDuXINqE4.png?scale-down-to=512
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\kjiN2hgEgDCsoHDesWIDuXINqE4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Kl2azl9JGXBI343YR3xmoxDJdTQ.png
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\Kl2azl9JGXBI343YR3xmoxDJdTQ-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Kl2azl9JGXBI343YR3xmoxDJdTQ.png?scale-down-to=512
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\Kl2azl9JGXBI343YR3xmoxDJdTQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kOBe4HWpK3oPsjRAdpxxaVrg.png
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\kOBe4HWpK3oPsjRAdpxxaVrg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kOBe4HWpK3oPsjRAdpxxaVrg.png?scale-down-to=1024
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\kOBe4HWpK3oPsjRAdpxxaVrg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NvY9HbAM90P2zeCNhZE30g3ild8.png
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\NvY9HbAM90P2zeCNhZE30g3ild8-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NvY9HbAM90P2zeCNhZE30g3ild8.png?scale-down-to=1024
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\NvY9HbAM90P2zeCNhZE30g3ild8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NvY9HbAM90P2zeCNhZE30g3ild8.png?scale-down-to=512
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\NvY9HbAM90P2zeCNhZE30g3ild8-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ujpv9BWQdhiRUqlSvFdkBP2t0.png
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\ujpv9BWQdhiRUqlSvFdkBP2t0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/WEIeZ81SQ9mrhK6HzsbvykmwxYY.png
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\images\WEIeZ81SQ9mrhK6HzsbvykmwxYY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/ihwsJ2I5NuPIcp5z9MBLI/chunk-6D7AITMV.mjs
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\sites\ihwsJ2I5NuPIcp5z9MBLI\chunk-6D7AITMV.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/ihwsJ2I5NuPIcp5z9MBLI/chunk-ELYU6EKT.mjs
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\sites\ihwsJ2I5NuPIcp5z9MBLI\chunk-ELYU6EKT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/ihwsJ2I5NuPIcp5z9MBLI/chunk-XBCL72YF.mjs
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\sites\ihwsJ2I5NuPIcp5z9MBLI\chunk-XBCL72YF.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/ihwsJ2I5NuPIcp5z9MBLI/default_script0.WWQCH6TC.mjs
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\sites\ihwsJ2I5NuPIcp5z9MBLI\default_script0.WWQCH6TC.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/ihwsJ2I5NuPIcp5z9MBLI/zW0eWYh4-3yBweIUZ_yQ-kZNo7L_DmXDGNHEZmqX3v4.ZDKZQLH4.mjs
+File Name: C:\Users\theoc\Documents\sites\awp-gg.xyz\sites\ihwsJ2I5NuPIcp5z9MBLI\zW0eWYh4-3yBweIUZ_yQ-kZNo7L_DmXDGNHEZmqX3v4.ZDKZQLH4.mjs
+Content Type: text/javascript
+
